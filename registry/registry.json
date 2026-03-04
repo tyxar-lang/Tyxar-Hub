@@ -1,3 +1,16 @@
 {
-  "registry": true
+  "registry_version": "1.0.0",
+  "library":{
+    "random": {
+      "type": "node",
+      "repo": "https://github.com/example-user/txr_random.git",
+      "branch": "main",
+      "entry": "random.txr",
+      "version": "1.0.0"
+    },
+    "example-package": {
+      "type": "node",
+      "repo": ""
+    }
+  }
 }
