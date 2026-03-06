@@ -1,16 +1,18 @@
 {
-  "registry_version": "1.0.0",
+  "author": "© 2026 DOAT C's",
+  "version": "1.0.0",
   "library":{
     "random": {
       "type": "node",
-      "repo": "https://github.com/example-user/txr_random.git",
+      "user": "example-user",
       "branch": "main",
-      "entry": "random.txr",
+      "directory": "tyxar_node/random.txr",
       "version": "1.0.0"
     },
-    "example-package": {
-      "type": "node",
-      "repo": ""
+    "example": {
+      "type": "cluster",
+      "user": "example-user",
+      "version": "1.0.0"
     }
   }
 }
