@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "library":{
     "random": {
-      "description": "Example cluster",
+      "description": "Example node",
       "type": "node",
       "user": "example-user",
       "branch": "main",
@@ -11,7 +11,7 @@
       "version": "1.0.0"
     },
     "example": {
-      "description": "Example node",
+      "description": "Example cluster",
       "type": "cluster",
       "user": "example-user",
       "version": "1.0.0"
