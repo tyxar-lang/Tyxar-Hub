@@ -7,7 +7,7 @@
       "type": "node",
       "user": "example-user",
       "branch": "main",
-      "directory": "tyxar_node/random.txr",
+      "entry": "tyxar_node/random.txr",
       "version": "1.0.0"
     },
     "example": {
